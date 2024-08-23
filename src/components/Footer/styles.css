@@ -1,0 +1,17 @@
+footer {
+    width: 100%;
+    margin-top: 8%;
+    min-height: 90px;
+}
+
+footer a{
+    font-style: none;
+}
+
+
+
+.linha {
+    border-top: 2px solid #ECEFF2; 
+    width: 50%; 
+    margin: 10px auto; 
+}
